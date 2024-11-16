@@ -40,5 +40,6 @@
 The Kaggle dataset is a comprehensive resource containing CSV files that provide statistics on popular YouTube videos over multiple months. Each day, up to 200 trending videos are published across various locations, with the data for each region stored in separate files. This dataset includes essential details such as video titles, channel titles, publication times, tags, views, likes, dislikes, descriptions, and comment counts. Moreover, a category_id field, which varies by region, is included in the JSON file linked to each location. This dataset is invaluable for anyone looking to analyze YouTube trends effectively.
 
 
+![Screenshot 2024-11-16 at 4 15 41 PM](https://github.com/user-attachments/assets/c63279d3-6adf-4f67-b2a7-a80a0717b766)
 
 
